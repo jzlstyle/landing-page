@@ -60,9 +60,9 @@ h1 {
 .block-button {
   border-radius: .4rem;
   transition: .1s opacity linear;
-  color: white;
-  background-color: #31CDFE;
-  border-color: #31CDFE;
+  color: #000;
+  background-color: #fff;
+  border-color: #fff;
   display: inline-block;
   -webkit-font-smoothing: antialiased;
   line-height: normal;
