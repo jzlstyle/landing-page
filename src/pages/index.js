@@ -16,7 +16,12 @@ const Logo = () => (
         justifyContent: "center",
       }}
     >
-      <img class="center" src={logoSrc} alt="Logo" style={{ width: 184 }} />
+      <img
+        class="center"
+        src={logoSrc}
+        alt="Logo"
+        style={{ width: 112, height: 86 }}
+      />
     </div>
   </div>
 )
