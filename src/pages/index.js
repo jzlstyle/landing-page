@@ -19,7 +19,7 @@ const Logo = () => (
       <img
         class="center logo"
         src={logoSrc}
-        alt="Logo"
+        alt="Logo" />
     </div>
   </div>
 )
