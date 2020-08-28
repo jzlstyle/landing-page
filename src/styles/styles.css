@@ -112,3 +112,9 @@ header{
     position: fixed;
     top: 0;
 }
+
+.logo {
+  width: 71px;
+    height: 47px;
+    padding-top: 12px;
+}

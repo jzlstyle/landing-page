@@ -17,11 +17,9 @@ const Logo = () => (
       }}
     >
       <img
-        class="center"
+        class="center logo"
         src={logoSrc}
         alt="Logo"
-        style={{ width: 112, height: 86 }}
-      />
     </div>
   </div>
 )
