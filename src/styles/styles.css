@@ -106,3 +106,9 @@ a {
 a {
   background: transparent;
 }
+
+header{
+    width: 100%;
+    position: fixed;
+    top: 0;
+}
